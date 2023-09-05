@@ -1,5 +1,5 @@
 [package]
-name = "rustlearn"
+name = "mars_weight"
 version = "0.1.0"
 edition = "2021"
 
